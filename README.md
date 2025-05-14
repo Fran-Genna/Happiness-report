@@ -8,3 +8,7 @@ The analysis is based on the World Happiness Report dataset, which ranks countri
 **Data Source**   
 The dataset used in this project comes from the World Happiness Report, which is published annually and provides valuable insights into the state of global happiness. 
 The report includes data on various factors affecting happiness, such as income, social support, life expectancy, freedom to make choices, generosity, and corruption.
+
+
+
+To view the interactive version of the dashboard, `please download the file and click on the link provided on the second page of the PDF presentation.`
