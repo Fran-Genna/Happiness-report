@@ -11,4 +11,4 @@ The report includes data on various factors affecting happiness, such as income,
 
 
 
-To view the interactive version of the dashboard, `please download the file and click on the link provided on the second page of the PDF presentation.`
+To view the interactive version of the dashboard on Tableau Public, `please download the file and click on the link provided on the second page of the PDF presentation.`
