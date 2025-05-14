@@ -5,6 +5,6 @@ The aim of the project is to provide a comprehensive analysis of the global happ
 The analysis is based on the World Happiness Report dataset, which ranks countries based on their level of happiness. This data is used to explore patterns and correlations related to factors influencing happiness and well-being.
 
 
-**Data Source**
+**Data Source**   
 The dataset used in this project comes from the World Happiness Report, which is published annually and provides valuable insights into the state of global happiness. 
 The report includes data on various factors affecting happiness, such as income, social support, life expectancy, freedom to make choices, generosity, and corruption.
